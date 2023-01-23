@@ -1,5 +1,7 @@
 ### ARTimeOut
 
+Interface for a resetable time out service
+
 
 
 
